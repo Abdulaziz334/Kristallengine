@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "Kristall"
+name = "Kristall Engine"
 major = 4
 minor = 5
 patch = 0
 status = "dev"
 module_config = ""
-website = "https://godotengine.org"
+website = "https://Kristallengine.org"
 docs = "latest"
